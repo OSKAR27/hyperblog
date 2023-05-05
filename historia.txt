@@ -4,8 +4,4 @@ tengo 28 años
 
 y este archivo es de prueba
 
-en git podemos hacer todo esto
-
-hoy hablaremos de la vida
-
-cambio de maestria
+mañana nos enfocaremo en su vida laboral
