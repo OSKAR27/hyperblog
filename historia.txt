@@ -3,3 +3,5 @@ mi nombre es oscar
 tengo 28 años
 
 y este archivo es de prueba
+
+en git podemos hacer todo esto
